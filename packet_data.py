@@ -1,0 +1,3 @@
+
+HANDSHAKE = b'\x01'
+SERVER_REPLY_BYTE = b'\x00'
